@@ -1,0 +1,11 @@
+Lab 0 – initial setup
+
+
+Install VS code Text Editor: https://code.visualstudio.com/download.
+Install django by going into the Terminal (mac) or command Prompt (windows).
+Run the commadn: pip3 install Django, if it is not working, then try: 
+ python -m pip install Django
+To avoid any technical issues when installing Django, use a virtual machine such as conda.
+After installing Django, run the following command to test if your installing is done correctly: django-admin startproject testProject  
+
+Make sure to upload at least two screenshots.
